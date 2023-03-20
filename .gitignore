@@ -5,3 +5,6 @@ __pycache__/
 
 build/
 dist/
+deb_dist/
+*.tar.gz
+*.egg-info*
